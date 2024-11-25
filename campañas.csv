@@ -1,0 +1,31 @@
+idCamp,nomCamp,presupuesto,idEmp,fechaIni,fechaFin
+1,Lanzamiento Verano,50000,1,2024-01-01,2024-03-31
+2,Black Friday,75000,2,2024-11-01,2024-11-30
+3,Navidad en Familia,60000,3,2024-12-01,2024-12-31
+4,Tecnología Avanzada,90000,4,2024-02-01,2024-04-30
+5,Regreso a Clases,40000,5,2024-07-01,2024-08-31
+6,Salud y Bienestar,30000,6,2024-05-01,2024-06-30
+7,Primavera Verde,55000,7,2024-03-01,2024-05-31
+8,Otoño Innovador,45000,8,2024-09-01,2024-11-30
+9,Grandes Descuentos,70000,9,2024-10-01,2024-10-31
+10,Conquista Digital,80000,10,2024-06-01,2024-08-31
+11,Tecnología Futurista,95000,11,2024-01-01,2024-03-31
+12,Verano Sustentable,65000,12,2024-06-01,2024-08-31
+13,Delicias Navideñas,55000,13,2024-12-01,2024-12-31
+14,Logística al Máximo,85000,14,2024-02-01,2024-04-30
+15,Finanzas Inteligentes,72000,15,2024-04-01,2024-06-30
+16,Branding Creativo,67000,16,2024-07-01,2024-09-30
+17,Innovación Médica,75000,17,2024-05-01,2024-07-31
+18,Construcción del Futuro,48000,18,2024-08-01,2024-10-31
+19,Diseño Visionario,61000,19,2024-09-01,2024-11-30
+20,Movilidad Sostenible,40000,20,2024-03-01,2024-05-31
+21,Inteligencia Digital,87000,21,2024-01-01,2024-03-31
+22,Energía Renovable,50000,22,2024-06-01,2024-08-31
+23,Productos Orgánicos,34000,23,2024-02-01,2024-03-31
+24,Logística Global,76000,24,2024-04-01,2024-06-30
+25,Finanzas Globales,83000,25,2024-07-01,2024-09-30
+26,Creatividad en Acción,92000,26,2024-05-01,2024-07-31
+27,Esenciales de Salud,31000,27,2024-03-01,2024-05-31
+28,Infraestructura Moderna,64000,28,2024-08-01,2024-10-31
+29,Inspiración Artística,47000,29,2024-09-01,2024-11-30
+30,Aviación Futurista,88000,30,2024-10-01,2024-12-31

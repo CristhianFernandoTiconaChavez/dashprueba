@@ -1,0 +1,31 @@
+idCamp,idProd,plataforma,clicks,visualizacion,adquisicion,idAd
+1,101,Facebook,150,1000,15,1
+2,102,Google Ads,200,1500,25,2
+1,103,Instagram,300,2000,20,3
+3,104,Twitter,100,800,10,4
+4,105,YouTube,250,2200,30,5
+5,106,TikTok,400,3000,50,6
+2,107,LinkedIn,90,700,5,7
+3,108,Pinterest,80,600,8,8
+1,109,Facebook,140,900,12,9
+2,110,Instagram,310,2500,35,10
+4,111,Google Ads,220,1700,28,11
+5,112,Twitter,130,900,14,12
+1,113,YouTube,300,2500,40,13
+2,114,TikTok,450,3200,60,14
+3,115,LinkedIn,120,1000,10,15
+5,116,Pinterest,70,500,7,16
+1,117,Facebook,160,1200,18,17
+2,118,Instagram,350,2600,45,18
+3,119,Google Ads,230,1900,32,19
+4,120,Twitter,110,850,9,20
+5,121,YouTube,280,2400,38,21
+1,122,TikTok,500,3500,70,22
+2,123,LinkedIn,100,800,6,23
+3,124,Pinterest,85,550,8,24
+4,125,Facebook,170,1300,20,25
+5,126,Instagram,400,2800,50,26
+1,127,Google Ads,260,2000,35,27
+2,128,Twitter,120,950,11,28
+3,129,YouTube,320,2700,45,29
+4,130,TikTok,520,3600,80,30
